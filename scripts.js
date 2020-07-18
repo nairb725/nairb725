@@ -1,0 +1,1 @@
+console.log('fichier scripts.js chargé');
